@@ -619,6 +619,14 @@ h2.portfolio-title{
     text-align: center;
 }
 
+.web-1-desc a{
+    color: black;
+}
+
+a.web-1-desc a:hover{
+    color: #6FF0A5;
+}
+
 .close {
     position: absolute;
     right: 32px;

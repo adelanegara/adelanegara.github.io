@@ -75,5 +75,14 @@ jQuery(document).ready(function($){
    
 });
 
-AOS.init();
+var offset_val = parseInt(900 * 30 / 100);
+
+
+AOS.init({
+  offset:offset_val
+
+
+
+
+});
 
