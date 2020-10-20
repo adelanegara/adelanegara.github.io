@@ -538,9 +538,9 @@ h2.portfolio-title {
 .bg-green-3 .footer-botton-wrap:after {
   position: absolute;
   content: "";
-  padding: 35px 95px;
+  padding: 40px 100px;
   background: #6ff0a5;
-  right: 40px;
+  right: 20px;
   top: -20px;
 }
 
