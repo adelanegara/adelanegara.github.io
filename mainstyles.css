@@ -248,7 +248,7 @@ h2.portfolio-title {
 
 .feature-img-2 img {
   position: relative;
-  z-index: 100;
+  z-index: 20;
 }
 
 /* .bg-green-2{
