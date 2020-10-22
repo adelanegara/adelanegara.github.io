@@ -847,9 +847,9 @@ a.web-1-desc a:hover {
   .bg-green-3 .footer-botton-wrap:after {
     position: absolute;
     content: "";
-    padding: 25px 70px;
+    /* padding: 25px 70px; */
     background: #6ff0a5;
-    right: 32px;
+    left: -10px;
     top: -10px;
   }
 
